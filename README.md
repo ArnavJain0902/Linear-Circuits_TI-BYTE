@@ -10,7 +10,6 @@ The BYTE Mentorship Program is a 6-week technical workshop focused on **Linear C
 - Hands-on circuit simulation exercises using **QUCS (Quite Universal Circuit Simulator)**  
 - Quizzes to test understanding of the week's content  
 - Interactive sessions with TI engineers  
-- Final certification and interview opportunities for top performers  
 
 ### Program Schedule Overview:
 | Week | Topic                                    |
