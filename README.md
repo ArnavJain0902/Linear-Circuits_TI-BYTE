@@ -34,7 +34,7 @@ Each folder in this repository corresponds to one week of the workshop and conta
 
 ```bash
 📦 TI-BYTE-QUCS-Simulations
-├── Week00_Voltage &amp; Current_Sources
+├── Week00_Voltage_Current_Sources
 ├── Week01_RC_Circuits/
 ├── Week02_Fourier_Laplace/
 ├── Week03_Inductor_Circuits/
