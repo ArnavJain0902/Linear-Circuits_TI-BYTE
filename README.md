@@ -15,12 +15,12 @@ The BYTE Mentorship Program is a 6-week technical workshop focused on **Linear C
 | Week | Topic                                    |
 |------|------------------------------------------|
 | 0    | Voltage & Current Sources (Self Study)   |
-| 1    | R-C Circuits + QUCS Setup                |
+| 1    | R-C Circuits                             |
 | 2    | Fourier & Laplace Transform              |
 | 3    | Inductor Circuits                        |
 | 4    | Diode Circuits                           |
 | 5    | Buffers                                  |
-| 6    | Operational Amplifiers (Op-Amps)         |
+| 6    | Operational Amplifiers                   |
 
 ---
 
