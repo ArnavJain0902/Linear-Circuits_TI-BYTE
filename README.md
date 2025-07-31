@@ -1,4 +1,4 @@
-# TI BYTE Mentorship Program 2025 - QUCS Simulations
+# TI BYTE Mentorship Program 2025
 
 This repository contains weekly QUCS simulation assignments completed as part of the **BYTE (Build Your Technical Edge)** workshop conducted by **Texas Instruments** in 2025.
 
